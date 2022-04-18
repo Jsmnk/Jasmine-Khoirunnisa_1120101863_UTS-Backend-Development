@@ -1,0 +1,36 @@
+{
+    "kelas1" :[
+        {
+            "nomer induk" : "2345678",
+            "nama" : "Afil",
+            "kelas" : "1"
+        },
+        {
+            "nomer induk" : "3345678",
+            "nama" : "Cindy",
+            "kelas" : "1"
+        },
+        {
+            "nomer induk" : "4345678",
+            "nama" : "Naca",
+            "kelas" : "1"
+        }
+    ],
+    "kelas2" :[
+        {
+            "nomer induk" : "5345678",
+            "nama" : "Lika",
+            "kelas" : "2"
+        },
+        {
+            "nomer induk" : "6345678",
+            "nama" : "Anjani",
+            "kelas" : "2"
+        },
+        {
+            "nomer induk" : "7345678",
+            "nama" : "Nadila",
+            "kelas" : "2"
+        }
+    ]
+}
